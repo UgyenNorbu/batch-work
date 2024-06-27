@@ -1,0 +1,2 @@
+[console_scripts]
+bw_rename = batch_work.main:main
