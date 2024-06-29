@@ -7,6 +7,7 @@ setup(
     entry_points={
         'console_scripts':[
             'bw_rename=batch_work.main:main',
+            'bw_sort=batch_work.main:main'
         ],
     },
 )
