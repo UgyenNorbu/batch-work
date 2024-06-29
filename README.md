@@ -1,4 +1,4 @@
-# `batchwork`: A Tool to Organize and Rename File
+# `batch-work`: A Tool to Organize and Rename File
 
 ## Introduction
 This is a command-line utility tool written in Python that helps you organize and rename files in a directory. It sorts files into different folders based on their file extensions and renames files with a specified prefix.
