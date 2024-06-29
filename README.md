@@ -30,6 +30,23 @@ Replace <directory_path> with the path to the directory containing the files you
 Replace <prefix> with the desired prefix for the files and <directory_path> with the path to the directory containing the files you want to rename.
 
 ## Installation
+1. Clone the repository to your machine
+    ```bash
+    git clone https://github.com/UgyenNorbu/batchwork_tools.git
+
+2. Navigate to the project directory:
+    ```bash
+    cd batchwork_tools
+
+3. Run the command
+    ```bash
+    python setup.py install
+
+For this, `setuptools` is required if not already installed. 
+[You can install `setuptools` by running the command below;
+    ```bash
+    pip install setuptools
+]
 
 ## Dependencies
 
