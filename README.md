@@ -21,13 +21,13 @@ This is a command-line utility tool written in Python that helps you organize an
     ```bash
    bw_sort <directory_path>
 
-   Replace <directory_path> with the path to the directory containing the files you want to sort.
+Replace <directory_path> with the path to the directory containing the files you want to sort.
 
 2. **File renaming**:
     ```bash
     bw_rename <prefix> <directory_path>
 
-    Replace <prefix> with the desired prefix for the files and <directory_path> with the path to the directory containing the files you want to rename.
+Replace <prefix> with the desired prefix for the files and <directory_path> with the path to the directory containing the files you want to rename.
 
 ## Installation
 
