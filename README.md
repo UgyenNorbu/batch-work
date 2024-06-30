@@ -85,3 +85,5 @@ To contribute code or documentation:
 For general questions or suggestions about the `batch-work` project, please open a [new discussion](https://github.com/UgyenNorbu/batch-work/discussions) in our GitHub Discussions area.
 
 ## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
