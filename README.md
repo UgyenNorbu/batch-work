@@ -82,3 +82,7 @@ For general questions or suggestions about the `batch-work` project, please open
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## TODO 
+- Add functions to delete empty folders
+- Find dublicate files and delete
