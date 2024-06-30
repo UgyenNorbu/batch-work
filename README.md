@@ -33,27 +33,21 @@ Replace <prefix> with the desired prefix for the files and <directory_path> with
 Recommended to `cd` to the directory that contains the folder whose contents you want to rename.
 
 ## Installation
-1. Clone the repository to your machine
+Recommended method:
+Install the latest version:
     ```bash
-    git clone https://github.com/UgyenNorbu/batchwork_tools.git
+    pip install batch-work
     ```
-
-2. Navigate to the project directory:
+Or install from Github:
     ```bash
-    cd batchwork_tools
+    pip install https://github.com/UgyenNorbu/batch-work/releases/download/v0.1.1/batch_work-0.1.2.tar.gz
     ```
-
-3. Run the command
-    ```bash
-    python setup.py install
-    ```
-
-For this, `setuptools` is required. If it is not already installed. install by running;
-    ```bash
-    pip install setuptools
-    ```
-
 ## Dependencies
+`tree`
+Install:
+    ```bash
+    pip install tree
+    ```
 
 ## Contributing
 We appreciate your interest in contributing to the `batch-work` project. Your contributions can help improve this tool for everyone. Here's how you can get involved:
