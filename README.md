@@ -43,7 +43,8 @@ Or install from Github:
     pip install https://github.com/UgyenNorbu/batch-work/releases/download/v0.1.1/batch_work-0.1.2.tar.gz
     ```
 ## Dependencies
-`tree`
+Package `tree` is required. 
+
 Install:
     ```bash
     pip install tree
