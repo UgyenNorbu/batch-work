@@ -56,4 +56,32 @@ For this, `setuptools` is required. If it is not already installed. install by r
 ## Dependencies
 
 ## Contributing
+We appreciate your interest in contributing to the `batch-work` project. Your contributions can help improve this tool for everyone. Here's how you can get involved:
+
+### Reporting Issues
+
+If you encounter any bugs or have suggestions for improvements:
+
+1. Check the [existing issues](https://github.com/UgyenNorbu/batch-work/issues) to see if it has already been reported.
+2. If not, [open a new issue](https://github.com/UgyenNorbu/batch-work/issues/new), providing as much detail as possible:
+   - Steps to reproduce the bug
+   - Expected vs. actual behavior
+   - Your environment (OS, Python version, etc.)
+   - Any relevant screenshots or error messages
+
+### Submitting Changes
+
+To contribute code or documentation:
+
+1. Fork the repository
+2. Create a new branch (`git checkout -b feature/YourFeatureName`)
+3. Make your changes
+4. Commit your changes (`git commit -m 'Add some feature'`)
+5. Push to your branch (`git push origin feature/YourFeatureName`)
+6. Open a Pull Request against the `main` branch
+
+### Questions or Suggestions
+
+For general questions or suggestions about the `batch-work` project, please open a [new discussion](https://github.com/UgyenNorbu/batch-work/discussions) in our GitHub Discussions area.
+
 ## License
