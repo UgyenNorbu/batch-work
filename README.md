@@ -14,7 +14,6 @@ This is a command-line utility tool written in Python that helps you organize an
 
 2. **File renaming**: The script renames files in a directory with a specified prefix and sequential numbers.
 
-
 ## Usage
 
 1. **File sorting**:
@@ -33,19 +32,20 @@ Replace <prefix> with the desired prefix for the files and <directory_path> with
 Recommended to `cd` to the directory that contains the folder whose contents you want to rename.
 
 ## Installation
-Recommended method:
-Install the latest version:
+Recommended method: Install the latest version:
+
     ```bash
     pip install batch-work
     ```
+
 Or install from Github:
+
     ```bash
     pip install https://github.com/UgyenNorbu/batch-work/releases/download/v0.1.1/batch_work-0.1.2.tar.gz
     ```
 ## Dependencies
-Package `tree` is required. 
+Package `tree` is required. Install the latest version:
 
-Install:
     ```bash
     pip install tree
     ```
