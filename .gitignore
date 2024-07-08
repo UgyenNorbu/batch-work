@@ -1,5 +1,9 @@
+test.py
 *.txt
 *.pyc
 /venv
 /dist
+/batch_work.egg-info
+create_test_folder.sh
+create_files_sort.sh
 

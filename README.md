@@ -14,22 +14,30 @@ This is a command-line utility tool written in Python that helps you organize an
 
 2. **File renaming**: The script renames files in a directory with a specified prefix and sequential numbers.
 
+3. **Deleting empty folders**: The script will delete all empty folders and sub-folders for a given directory.
+
 ## Usage
 
 1. **File sorting**:
+To organize files in a directory by type:
    ```bash
    bw_sort <directory_path>
    ```
-
-Replace <directory_path> with the path to the directory containing the files you want to sort. Recommended to `cd` to the directory that contains the folder you want to sort.
+Replace <directory_path> with the target directory path. It's recommended to run this command from the parent directory.
 
 2. **File renaming**:
+To add a prefix to all files in a directory:
     ```bash
     bw_rename <prefix> <directory_path>
     ```
+Replace <prefix> with the desired prefix and <directory_path> with the target directory path. It's recommended to run this command from the parent directory.
 
-Replace <prefix> with the desired prefix for the files and <directory_path> with the path to the directory containing the files you want to rename. 
-Recommended to `cd` to the directory that contains the folder whose contents you want to rename.
+3. **Deleting empty folders**:
+To remove all empty folders within a specified directory:
+    ```bash
+    bw_delempty <directory_path>
+    ```
+Replace <directory_path> with the path to the parent directory you want to clean up.
 
 ## Installation
 Recommended method: Install the latest version:
