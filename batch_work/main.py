@@ -8,6 +8,7 @@ import sys
 
 from .bw_sort import bw_sort
 from .bw_rename import bw_rename
+from .bw_delempty import bw_delempty
 
 def main():
     if len(sys.argv) < 2:
@@ -23,6 +24,10 @@ def main():
         prefix = sys.argv[1]
         directory_path = sys.argv[2]
         bw_rename(directory_path, prefix)
+
+    elif 'bw_delempty' in sys.argv[0] and len(sys.argv) == 2:
+        directory_path = sys.argv[1]
+        bw_delempty(directory_path)
 
     else:
         print("Error: Please follow the following usage")
