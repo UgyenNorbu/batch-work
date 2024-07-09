@@ -1,9 +1,12 @@
+LICENSE
 README.md
 setup.py
 batch_work/__init__.py
+batch_work/bw_delempty.py
 batch_work/bw_rename.py
 batch_work/bw_sort.py
 batch_work/main.py
+batch_work/test.py
 batch_work.egg-info/PKG-INFO
 batch_work.egg-info/SOURCES.txt
 batch_work.egg-info/dependency_links.txt
