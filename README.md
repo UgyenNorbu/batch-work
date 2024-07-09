@@ -23,21 +23,21 @@ To organize files in a directory by type:
    ```bash
    bw_sort <directory_path>
    ```
-Replace <directory_path> with the target directory path. It's recommended to run this command from the parent directory.
+Replace `<directory_path>` with the target directory path. It's recommended to run this command from the parent directory.
 
 2. **File renaming**:
 To add a prefix to all files in a directory:
     ```bash
     bw_rename <prefix> <directory_path>
     ```
-Replace <prefix> with the desired prefix and <directory_path> with the target directory path. It's recommended to run this command from the parent directory.
+Replace `<prefix>` with the desired prefix and `<directory_path>` with the target directory path. It's recommended to run this command from the parent directory.
 
 3. **Deleting empty folders**:
 To remove all empty folders within a specified directory:
     ```bash
     bw_delempty <directory_path>
     ```
-Replace <directory_path> with the path to the parent directory you want to clean up.
+Replace `<directory_path>` with the path to the parent directory you want to clean up.
 
 ## Installation
 Recommended method: Install the latest version:
