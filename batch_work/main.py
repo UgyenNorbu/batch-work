@@ -31,6 +31,7 @@ def main():
 
     else:
         print("Error: Please follow the following usage")
+        print('Usage: bw_delempty <directory_path>')
         print("Usage: bw_rename <prefix> <directory_path>")
         print("Usage: bw_sort <directory_path>")
 
