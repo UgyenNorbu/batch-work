@@ -1,4 +1,0 @@
-[console_scripts]
-bw_delempty = batch_work.main:main
-bw_rename = batch_work.main:main
-bw_sort = batch_work.main:main
